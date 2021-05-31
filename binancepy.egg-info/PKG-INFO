@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: binancepy
-Version: 0.1.23
+Version: 0.1.24
 Summary: Binance Chain HTTP API python implementation
 Home-page: https://github.com/tokenchain/binancepy
 Author: Heskemo
