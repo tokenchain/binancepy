@@ -52,9 +52,9 @@ clean_repo() {
   # python3 -m twine upload --repository testpypi dist/*
   python3 -m twine upload dist/* --verbose
   echo "please update the package by using this command"
-  echo "python3 -m pip install binancepy==$VERSION"
-  echo "pi binancepy==$VERSION"
-  echo "pc binancepy==$VERSION"
+  echo "python3 -m pip install binancechainpy==$VERSION"
+  echo "pi binancechainpy==$VERSION"
+  echo "pc binancechainpy==$VERSION"
   echo "wait 30 seconds until it gets uploaded online..."
   # echo "ready and install it again.."
 }

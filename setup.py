@@ -29,7 +29,7 @@ def install_requires():
 
 
 setup(
-    name='binancepy',
+    name='binancechainpy',
     version=find_version(),
     packages=find_packages(),
     description='Binance Chain HTTP API python implementation',
